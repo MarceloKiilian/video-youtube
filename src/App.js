@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Marcelo Kiilian Heinsberg
+          Marcelo Kiilian Heinsberg Kiilian Solutions
         </a>
       </header>
     </div>
