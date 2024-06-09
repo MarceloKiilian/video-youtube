@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Marcelo Kiilian
+          Marcelo Kiilian Heinsberg
         </a>
       </header>
     </div>
